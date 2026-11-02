@@ -1,0 +1,25 @@
+strategy,asset,window,period_start,period_end,return_pct_after_costs,approximate,live_since,venue,source
+Trend,ZEC,since start,2026-01,2026-10-20,409,yes,2026-01,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Prime,ZEC,since start,2026-01,2026-10-20,407,yes,2026-01,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Trend,ZEC,latest 90 days,,2026-10-20,96,yes,2026-01,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Prime,ZEC,latest 90 days,,2026-10-20,96,yes,2026-01,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Optima Short,XMR,since start,2026-04,2026-10-20,113,yes,2026-04,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Prime,XMR,since start,2026-04,2026-10-20,103,yes,2026-04,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Trend,XMR,since start,2026-04,2026-10-20,89,yes,2026-04,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Optima Short,XMR,latest 30 days,,2026-10-20,21,yes,2026-04,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Prime,XMR,latest 30 days,,2026-10-20,20,yes,2026-04,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Trend,XMR,latest 30 days,,2026-10-20,16,yes,2026-04,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Trend,NEAR,latest 90 days,,2026-10-20,116.7,yes,,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Prime,NEAR,latest 90 days,,2026-10-20,55.3,yes,,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Optima Short,NEAR,latest 90 days,,2026-10-20,31.6,yes,,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Trend,NEAR,latest 30 days,,2026-10-20,42.6,no,,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Prime,NEAR,latest 30 days,,2026-10-20,23.0,no,,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Optima Short,NEAR,latest 30 days,,2026-10-20,14.8,no,,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Trend,HYPE,latest 90 days,,2026-10-20,38.5,no,,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Prime,HYPE,latest 90 days,,2026-10-20,32.1,no,,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Optima Short,HYPE,latest 90 days,,2026-10-20,25.2,no,,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Trend,HYPE,latest 30 days,,2026-10-20,-2.5,no,,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Prime,HYPE,latest 30 days,,2026-10-20,-0.7,no,,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Optima Short,HYPE,latest 30 days,,2026-10-20,1.0,no,,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Equal-weighted basket (45 strategies),all,since start,2026-01,2026-10-20,39,yes,2026-01,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
+Equal-weighted basket (45 strategies),all,latest 3 weeks,,2026-10-20,3.5,no,2026-01,"Orderly; Hyperliquid from September 2026",https://alphanet.global/blog/strategy-performance-update-1/
